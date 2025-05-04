@@ -1,5 +1,3 @@
 streamlit
 requests
-json
-requests
 streamlit_star_rating
