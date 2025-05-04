@@ -1,0 +1,6 @@
+streamlit
+requests
+json
+base64
+re
+streamlit_star_rating
