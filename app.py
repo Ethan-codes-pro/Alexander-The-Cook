@@ -170,7 +170,7 @@ if generate:
                 response = requests.post(
                     url="https://openrouter.ai/api/v1/chat/completions",
                     headers={
-                        "Authorization": "Bearer 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",
+                        "Authorization": "Bearer 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",
                         "Content-Type": "application/json",
                     },
                     data=json.dumps({
